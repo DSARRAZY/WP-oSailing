@@ -1,0 +1,1 @@
+/var/www/html/Spe-WP/WP-oSailing--LorisOclock/wordpress/content/plugins/query-monitor/wp-content/db.php
